@@ -55,7 +55,7 @@ The model shows strong performance in classifying unseen weather images.
 
 ---
 
-## 🚀 How to Run This Project
+##  How to Run This Project
 
 ### Clone the repository
 ```bash
