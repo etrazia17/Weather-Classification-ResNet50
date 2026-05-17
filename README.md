@@ -75,14 +75,13 @@ pip install -r requirements.txt
 ```
 
 ### Open the project file
-###Open this file:
 
 ```bash
 Weather_Classification_Using_ResNet50.ipynb
 ```
 
 ### Run all cells
-###In Jupyter Notebook:
+In Jupyter Notebook:
 
 ```bash
 Kernel → Restart & Run All
